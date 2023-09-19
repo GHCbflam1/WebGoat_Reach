@@ -3,12 +3,10 @@
     "remediateSettings": {
     "workflowRules": {
       "enabled": true,
-      "minVulnerabilityScore": 9,
+      "minVulnerabilityScore": 8,
         "maxVulnerabilityScore": 10
     },
     "enableRenovate": false,
     "ignorePresets": ["config:base", "github>mend-toolkit/mend-examples//Repo-Integration/Renovate/smart-merge"]
   }
 }
-
-
